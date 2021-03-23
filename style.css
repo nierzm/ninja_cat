@@ -1,0 +1,18 @@
+.container {
+    background-color: aliceblue;
+    width: 517px;
+    height: 380px;
+    margin: 10px auto;
+    padding: 10px;
+}
+img {
+    display: block;
+	border: 1px solid white;
+}
+h1 {
+    display: inline-block;
+    padding: 10px;
+    margin: 0px;
+    width: 520px;
+    text-align: center;
+}
